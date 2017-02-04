@@ -1,10 +1,7 @@
 
 # C++
-#
 ### Pasta 'formabase-classes-heranca'                             
-#
 ##### Cobre:
-
 * Classes
     * Instânciamento
     * Encapsulamento
